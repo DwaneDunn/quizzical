@@ -1,0 +1,9 @@
+@import 'assets/css/base/base.css';
+@import 'assets/css/base/reset.css';
+
+body {
+  width: 100vw;
+  height: 100vh;
+  background-color: #0b2434;
+  padding: 20px;
+}

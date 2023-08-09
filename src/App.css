@@ -1,0 +1,17 @@
+main {
+  background: #f5f7fb;
+  padding: 20px 70px;
+  min-height: 550px;
+  max-width: 550px;
+  margin-inline: auto;
+
+  background-image: url(./src/assets/images/blobs.png),
+    url(./src/assets/images/blobs-1.png);
+  background-position:
+    left bottom,
+    right top;
+  background-repeat: no-repeat, no-repeat;
+  background-size:
+    150px 150px,
+    150px 150px;
+}
